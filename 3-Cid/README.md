@@ -1,15 +1,15 @@
-#Methods to inspect for our assignment:
+#Methods to inspect for our assignment
 
-Name:start( ApplicationContext appContext )
-Location:appserver/web/web-glue/src/main/java/com/sun/enterprise/web/WebApplication.java
+<li>Name:start( ApplicationContext appContext )
+Location:appserver/web/web-glue/src/main/java/com/sun/enterprise/web/WebApplication.java</li>
 
-Name:stop( ApplicationContext stopContext )
-Location:appserver/web/web-glue/src/main/java/com/sun/enterprise/web/WebApplication.java
+<li>Name:stop( ApplicationContext stopContext )
+Location:appserver/web/web-glue/src/main/java/com/sun/enterprise/web/WebApplication.java</li>
 
-Name:isKeepState( DeploymentContext deployContext , boolean isDeploy )
-Location:appserver/web/web-glue/src/main/java/com/sun/enterprise/web/WebApplication.java
+<li>Name:isKeepState( DeploymentContext deployContext , boolean isDeploy )
+Location:appserver/web/web-glue/src/main/java/com/sun/enterprise/web/WebApplication.java</li>
 
-Name:applyCustomizations( )
-Location:appserver/web/web-glue/src/main/java/com/sun/enterprise/web/WebApplication.java
+<li>Name:applyCustomizations( )
+Location:appserver/web/web-glue/src/main/java/com/sun/enterprise/web/WebApplication.java</li>
 
 
