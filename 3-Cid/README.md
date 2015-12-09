@@ -1,4 +1,4 @@
-Methods to inspect:
+#Methods to inspect for our assignment:
 
 Name:start( ApplicationContext appContext )
 Location:appserver/web/web-glue/src/main/java/com/sun/enterprise/web/WebApplication.java
