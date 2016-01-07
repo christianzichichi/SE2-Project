@@ -12,7 +12,7 @@ Luigi Marrocco:
 
 <li>Name:applyCustomizations( )</li>
 
-Changelog:
+#Changelog:
 
-Version 1.0 (05/01/2016) - initial commit
+<li>Version 1.0 (05/01/2016) - initial commit</li>
 
